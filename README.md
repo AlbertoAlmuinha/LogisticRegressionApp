@@ -21,3 +21,8 @@ El dashboard consta de tres partes:
 - LogisticRegression:
 
   1. En esta ventana se muestran los resultados de la regresión logística en base a los parámetros de la ventana 'Dataset & Parameters'. Dichos resultados se actualizarán cada vez que se modifica el dataset o algún parametro en la primera ventana y se pulsa el botón 'Update'.
+  
+  
+- Dataset de prueba:
+
+Se puede utilizar el dataset de prueba 'juice.csv' publicado en este repositorio para probar el dashboard.
