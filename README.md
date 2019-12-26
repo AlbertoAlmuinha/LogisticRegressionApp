@@ -16,8 +16,8 @@ El dashboard consta de tres partes:
   
 - Raw Data:
 
-5. En esta ventana podemos ver los datos cargados. Para ello, introducimos el número de filas que deseamos ver y pulsamos el botón 'Update' de la ventana. También aparecen unos datos en cajas como son el número total de filas del dataset, el número total de columnas y el número de missing values.
+  1. En esta ventana podemos ver los datos cargados. Para ello, introducimos el número de filas que deseamos ver y pulsamos el botón 'Update' de la ventana. También aparecen unos datos en cajas como son el número total de filas del dataset, el número total de columnas y el número de missing values.
 
 - LogisticRegression:
 
-6. En esta ventana se muestran los resultados de la regresión logística en base a los parámetros de la ventana 'Dataset & Parameters'. Dichos resultados se actualizarán cada vez que se modifica el dataset o algún parametro en la primera ventana y se pulsa el botón 'Update'.
+  1. En esta ventana se muestran los resultados de la regresión logística en base a los parámetros de la ventana 'Dataset & Parameters'. Dichos resultados se actualizarán cada vez que se modifica el dataset o algún parametro en la primera ventana y se pulsa el botón 'Update'.
