@@ -12,7 +12,9 @@ El dashboard consta de tres partes:
   
   3. Finalmente le damos al botón 'Update' para cargar los resultados. Estos pueden verse en la ventana 'LogisticRegression', donde se muestra la matriz de confusión con diversas métricas así como un plot de la matriz.
   
-  4. Cada vez que modifiquemos un parámetro en la ventana 'Data & Parameters' y pulsemos el botón 'Update', se actualizará la información.
+  4. También se muestran en esta ventana gráficos de correlaciones entre las variables tanto para el train dataset como para el test. Se muestran así mismo el número de filas de cada dataset y el número de valores positivos (1) y negativos (0) de la variable a clasificar.
+  
+  5. Cada vez que modifiquemos un parámetro en la ventana 'Data & Parameters' y pulsemos el botón 'Update', se actualizará la información.
   
 - Raw Data:
 
@@ -26,3 +28,6 @@ El dashboard consta de tres partes:
 - Dataset de prueba:
 
 Se puede utilizar el dataset de prueba 'juice.csv' publicado en este repositorio para probar el dashboard.
+
+
+## IMPORTANTE: Modificar el zoom en el browser al 75% para ver en un tamaño correcto la app.
