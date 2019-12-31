@@ -11,8 +11,6 @@ The dashboard has three main panels:
   
   1. The first step will be to load the .csv file with the desired data. This file must have a header and with comma separation. The data must have prepared to apply the algorithm. This means that all loaded columns must be numeric and all preprocess steps well done.
   
-  2. Una vez cargado el fichero, modificamos los parámetros que se le pasarán a la función logistic_regression de mi librería LogisticRegression: https://github.com/AlbertoAlmuinha/LogisticRegression
-  
   2. Once we have loaded the file, we can modify the parameters of the [logistic_regression function](https://github.com/AlbertoAlmuinha/LogisticRegression) in the corresponding boxs.
 
   3. Finally, we click the 'Update' botton to load the results. This results can be seen in the panel 'LogisticRegression', where you can find the confusion matrix, different metrics and a confusion matrix plot.
