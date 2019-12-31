@@ -1,5 +1,8 @@
 # LogisticRegressionApp
 
+[![Lifecycle:
+maturing](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#maturing)
+
 The app is hosted in the next link: https://albertoalmuinha.shinyapps.io/logisticregresion/
 
 The dashboard has three main panels:
