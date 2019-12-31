@@ -3,6 +3,8 @@
 [![Lifecycle:
 maturing](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#maturing)
 
+## Usage
+
 The app is hosted in the next link: https://albertoalmuinha.shinyapps.io/logisticregresion/
 
 The dashboard has three main panels:
@@ -27,7 +29,7 @@ The dashboard has three main panels:
 
   1. In this panel the results of the logistic regression function are displayed.
     
-- Dataset:
+## Test Dataset:
 
 You can use the 'juice.csv' dataset published in this repository to try the dashboard.
 
